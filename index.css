@@ -1,0 +1,30 @@
+
+    #eww{
+        display: block;
+        background-color: pink;
+    }
+    body{
+        background-color: aqua;
+    }
+    .container{
+        height: 250px;
+        width: 250px;
+        background-color: red;
+        margin-left: 300px;
+        margin-top: 60px;
+    }
+    #btn{
+       color: rgb(255, 255, 255);
+       background-color: black;
+       margin-left: 100px;
+       margin-top: 190px;
+    }
+    #move{
+        color: rgb(0, 0, 0);
+        height: 20px;
+        width: 50px;
+        background-color: yellow;
+        text-align: center;
+        margin-left: 30px;
+        padding: 5px;
+        }
